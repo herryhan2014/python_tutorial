@@ -17,3 +17,4 @@ loop - for/while
 function - build-in, main
 class - OOP
 '''
+print("ok")
